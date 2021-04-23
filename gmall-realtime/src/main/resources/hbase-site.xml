@@ -4,7 +4,7 @@
 <configuration>
     <property>
         <name>hbase.rootdir</name>
-        <value>hdfs://47.92.54.9:8020/hbase</value>
+        <value>hdfs://hadoop102:8020/hbase</value>
     </property>
 
     <property>

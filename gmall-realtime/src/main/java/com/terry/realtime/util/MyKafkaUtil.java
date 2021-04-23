@@ -11,7 +11,7 @@ import java.util.Properties;
 
 public class MyKafkaUtil {
 
-    private static String KAFKA_SERVER = "47.92.54.9:9092,47.92.236.144:9092,39.98.56.34:9092";
+    private static String KAFKA_SERVER = "hadoop102:9092,hadoop103:9092,hadoop104:9092";
     private static final String DEFAULT_TOPIC = "DEFAULT_DATA";
 
     //获kafkaSource----kafka消费者

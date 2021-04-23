@@ -1,4 +1,4 @@
-package com.terry.realtime.app;
+package com.terry.realtime.app.dwd;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
